@@ -1,0 +1,20 @@
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csprojAssemblyReference.cache
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad_4.Properties.Resources.resources
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csproj.GenerateResource.cache
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csproj.CoreCompileInputs.cache
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe.config
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.pdb
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.exe
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.pdb
+C:\Users\PC\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad_4.MainForm.resources
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe.config
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.exe
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\bin\Debug\Actividad 4.pdb
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csprojAssemblyReference.cache
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad_4.MainForm.resources
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad_4.Properties.Resources.resources
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csproj.GenerateResource.cache
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.csproj.CoreCompileInputs.cache
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.exe
+C:\Users\marco\Dropbox\Actividad 4\Actividad 4\obj\Debug\Actividad 4.pdb

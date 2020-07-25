@@ -1,0 +1,22 @@
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.MainForm.resources
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad_4.Properties.Resources.resources
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad 4.exe
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad 4.pdb
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.exe.config
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.exe
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.pdb
+C:\Users\PC\Desktop\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.EleccionDestino.resources
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.exe.config
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.exe
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\bin\Debug\Actividad 4.pdb
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csprojAssemblyReference.cache
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.EleccionDestino.resources
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.MainForm.resources
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad_4.Properties.Resources.resources
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csproj.GenerateResource.cache
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad 4.exe
+C:\Users\marco\OneDrive\Documentos\Documentos\CUCEI\4to Semestre\Seminario de Algoritmia\ProyectoFinalAlgoritmia\Actividad 4\obj\Debug\Actividad 4.pdb
